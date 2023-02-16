@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "webpacker", "~> 5.4"
+gem "haml-rails", "~> 2.0"
